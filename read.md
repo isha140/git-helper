@@ -3,8 +3,8 @@
 ### create a config
 this config is required to identify the user who committed the commits
 ```
-git config user.name dhruvi
-git config user.email dhruviemail@email.com
+git config user.name isha140
+git config user.email ishakakadiya191@email.com
 ```
 
 ---
